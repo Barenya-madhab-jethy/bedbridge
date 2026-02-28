@@ -11,7 +11,7 @@ Web browser
 Installation (2 Minutes)
 bash
 # 1. Clone or download project
-git clone https://github.com/yourusername/bedbridge.git
+git clone https://github.com/Barenya-madhab-jethy/bedbridge/commits?author=Barenya-madhab-jethy
 cd bedbridge
 
 # 2. Install Python dependencies
